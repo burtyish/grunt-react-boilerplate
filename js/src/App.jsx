@@ -1,4 +1,5 @@
 /** @jsx React.DOM */
+var Slider = require('react-slick')
 
 module.exports = function(router /*module dependencies*/) {
 	return React.createClass({
